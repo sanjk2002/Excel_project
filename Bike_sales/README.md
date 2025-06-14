@@ -2,6 +2,8 @@
 
 The interactive dashboard offers insight into bike sales, including product performance, customer segmentation, and regional sales trends. It presents data from January 2011 to July 2016, enabling users to explore sales behavior over time. The dashboard enables data-driven decision-making by offering key metrics such as over all revenue share, order volumn of bike, bike accessory & bike clothing.
 
+![Bike Retail Data](/Bike_sales/images/bike_retail_dashboard_image.png)
+
 ## Key Metrics and Insights:
 
 **Product Sales across Countries:**
