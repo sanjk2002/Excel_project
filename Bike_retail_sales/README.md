@@ -8,9 +8,11 @@ The interactive dashboard offers insight into bike sales, including product perf
 
 **Product Sales across Countries:**
 
-The United States records the highest sales across all three categories . In accessories, it achieves the highest volume with **371,198 units sold**, while Germany reports the **lowest at 97,723 units**.
-In clothing, the U.S. has highest sales at **91,590 units**, whereas Germany once again has the lowest, with **22,865 units**.
-For bike sales, the United States ranks first with **11,092 units**, followed closely by **Australia with 10,111 units**. Canada records the lowest sales in the bike segment, with just **2,209 units sold**.
+The United States records the highest sales across all three categories .
+
+- In accessories, it achieves the highest volume with **371,198 units sold**, while Germany reports the **lowest at 97,723 units**.
+- In clothing, the U.S. has highest sales at **91,590 units**, whereas Germany once again has the lowest, with **22,865 units**.
+- Bike sales, the United States ranks first with **11,092 units**, followed closely by **Australia with 10,111 units**. Canada records the lowest sales in the bike segment, with just **2,209 units sold**.
 
 **Revenue Share by Product Category:**
 
@@ -18,9 +20,9 @@ Accessories have a high order volume across all countries, their revenue contrib
 
 **Sub-Category Order Quantities:**
 
-Tires & Tubes have the highest order volume, with 505,889 units sold. Bike Stands are the least purchased item within the accessories category.
-In clothing, jerseys are the most popular sub-category, followed by caps, whereas vests account for the lowest sales.
-Among bikes, road bikes consistently record the highest sales every year.
+- Tires & Tubes have the highest order volume, with **505,889 units sold.** Bike Stands are the least purchased item within the accessories category.
+- In clothing, **jerseys are the most popular** sub-category, followed by caps, whereas vests account for the lowest sales.
+- In bikes, road bikes consistently record the highest sales every year.
 
 **Quarterly Sales Trends:**
 
