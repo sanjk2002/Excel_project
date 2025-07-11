@@ -6,29 +6,29 @@ The interactive dashboard offers insight into bike sales, including product perf
 
 ## **Key Metrics and Insights:**
 
-### Product Sales across Countries
+- ### Product Sales across Countries:
 
-The United States records the highest sales across all three categories .
+  The United States records the highest sales across all three categories .
 
-- In accessories, it achieves the highest volume with **371,198 units sold**, while Germany reports the **lowest at 97,723 units**.
-- In clothing, the U.S. has highest sales at **91,590 units**, whereas Germany once again has the lowest, with **22,865 units**.
-- Bike sales, the United States ranks first with **11,092 units**, followed closely by **Australia with 10,111 units**. Canada records the lowest sales in the bike segment, with just **2,209 units sold**.
+  - In accessories, it achieves the highest volume with **371,198 units sold**, while Germany reports the **lowest at 97,723 units**.
+  - In clothing, the U.S. has highest sales at **91,590 units**, whereas Germany once again has the lowest, with **22,865 units**.
+  - Bike sales, the United States ranks first with **11,092 units**, followed closely by **Australia with 10,111 units**. Canada records the lowest sales in the bike segment, with just **2,209 units sold**.
 
-### Revenue Share by Product Category
+- ### Revenue Share by Product Category
 
 Accessories have a high order volume across all countries, their revenue contribution remains **relatively low at 17.54%**, compared to bikes, which generate the majority of revenue at **72.69%**, and clothing, which contributes just **9.77%**.
 
-### Sub-Category Order Quantities
+- ### Sub-Category Order Quantities
 
-- Tires & Tubes have the highest order volume, with **505,889 units sold.** Bike Stands are the least purchased item within the accessories category.
-- In clothing, **jerseys are the most popular** sub-category, followed by caps, whereas vests account for the lowest sales.
-- In bikes, road bikes consistently record the highest sales every year.
+  - Tires & Tubes have the highest order volume, with **505,889 units sold.** Bike Stands are the least purchased item within the accessories category.
+  - In clothing, **jerseys are the most popular** sub-category, followed by caps, whereas vests account for the lowest sales.
+  - In bikes, road bikes consistently record the highest sales every year.
 
-### Quarterly Sales Trends
+- ### Quarterly Sales Trends
 
 Sales fluctuate across all countries on a quarterly basis. In Australia, the highest road bike sales are consistently recorded in the first and fourth quarters.
 
-### Customer Segmentation
+- ### 5. Customer Segmentation
 
 Male customers represent the majority of the buyer base. **Adults aged 35–64** account for the largest share of purchases, contributing **50.01% to total sales**. **Young Adults (ages 25–34)** form the second-largest segment, responsible for **33.21%** of overall sales.
 
